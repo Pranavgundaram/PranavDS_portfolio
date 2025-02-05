@@ -2,77 +2,71 @@
   <img width="40%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Languages I Use" />
 </p>
 
+<h1 align="center">Pranav Gundaram 🚀</h1>
+
 <p align="center">
-  🚀 <strong>Data Enthusiast | AI Explorer | Tech Innovator</strong> 🚀  
+  <strong>Data Enthusiast | AI Explorer | Tech Innovator</strong>  
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" alt="AI and Data Science">
 </p>
 
+<h2 align="center">🎓 Graduate Data Science Student at UMBC 🎓</h2>
 
+<p align="center">
+  I'm <strong>Pranav Gundaram</strong>, a passionate <strong>Data Scientist</strong> with expertise in <strong>Data Analysis, Machine Learning, and AI</strong>.  
+  Eager to apply my skills to <strong>healthcare, NLP, and predictive analytics</strong> to drive impactful insights.  
+  Outside of data science, I enjoy <strong>exploring the healthcare sector, coding, and continuous learning</strong>.
+</p>
 
-<h2 align="center">Welcome! Pranav Gundaram</h2>
+<p align="center">
+  <img align="center" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />
+</p>
 
-<p align='center'>
-  🎓 <strong>Graduate Data Science Student at University of Maryland, Baltimore County</strong> 🎓<br/>
-
-  I'm **Pranav Gundaram**, a passionate data scientist with expertise in **Data Analysis, Machine Learning, and AI**.  
-  I am eager to apply my skills to **healthcare, NLP, and predictive analytics** to drive impactful insights.  
-  Outside of data science, I enjoy **exploring the healthcare sector, coding, and continuous learning**.
-
-  <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />
-  
-<br/>
-<br/>
-<br/>
-
-- 👨🏽‍💻 I’m interested in **Machine Learning, NLP, AI, and Healthcare Analytics**.
-- 💬 Ask me about **data science, AI, and Python development**—I’d love to help!
-- 📫 **Reach out via email**: [pranavg2@umbc.edu](mailto:pranavg2@umbc.edu)
-- 📝 **[My Résumé]**  
-
-<br/>
-<br/>
-<br/>
+<h3 align="center">🔍 Currently Exploring</h3>
+<p align="center">
+  Machine Learning, NLP, AI, and Healthcare Analytics<br/>
+  Reach out via email at <a href="mailto:pranavg2@umbc.edu">pranavg2@umbc.edu</a> or check my <a href="#">Résumé</a>
 </p>
 
 ---
 
-### 🛠 Core Skills:
-- **Programming, Cloud Computing & Big Data**:  
-  Python (TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, NLTK), R, SQL (PostgreSQL, MySQL)  
-- **Machine Learning & AI**:  
-  Supervised & Unsupervised Learning, Deep Learning, NLP, Predictive Modeling, Feature Engineering  
-- **Data Visualization & MLOps**:  
-  Tableau, Power BI, Excel, Git, GitHub  
+### 🛠️ Core Skills
+- **Programming & Big Data**: Python (TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy), R, SQL, Cloud Computing
+- **Machine Learning & AI**: Supervised & Unsupervised Learning, Deep Learning, NLP, Predictive Modeling
+- **Data Visualization & MLOps**: Tableau, Power BI, Excel, Git, GitHub
 
 ---
 
-### 🌐 Portfolio and Contributions:
+### 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pranavgundaram/)
-- [GitHub](https://github.com/afshaankhan)
-
-
----
-
-### 🛠 Languages and Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+- [GitHub](https://github.com/Pranavgundaram)
 
 ---
 
-💡 **"Data is the new oil, but insight is the refinery!"**  
-🚀 Always exploring, always learning!  
+### 🛠️ Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811.svg?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  💡 <strong>"Data is the new oil, but insight is the refinery!"</strong><br/>
+  🚀 Always exploring, always learning!
+</p>
+
